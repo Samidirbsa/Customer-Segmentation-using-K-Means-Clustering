@@ -1,7 +1,3 @@
-Copilot 
-
-Certainly! Here's a README file based on the notebook you've provided: 
-
 # Customer Segmentation for Marketing Strategies 
 
  
